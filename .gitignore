@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+### ExtJs template
+.architect
+bootstrap.json
+.idea/
+*/node_modules
